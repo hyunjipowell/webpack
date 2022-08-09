@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("root").innerHTML="<h1>this is mainjs</h1>3"})();

@@ -8,3 +8,5 @@ const num = add(1, 2);
 const img = `<img src="${logo}">`;
 
 document.getElementById("root").innerHTML = img+ text + num;
+
+console.log("test");
